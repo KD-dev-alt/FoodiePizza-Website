@@ -2,7 +2,7 @@
 
 ## Internship Details
 
-***Name:*** Keyur Dobariya  
+**Name:** Keyur Dobariya  
 **Company:** Saiket Systems  
 **Domain:** Front-End Development  
 **Duration:** April 2026 – May 2026  
