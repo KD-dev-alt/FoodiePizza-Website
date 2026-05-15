@@ -1,53 +1,79 @@
-Author
+# Front-End Development Internship
 
-Keyur Dobariya
----
-Email: keyur.dobariya.dev@gmail.com
+## Internship Details
 
----
-
-# FoodiePizza – Online Food Ordering Website
-
-A responsive food ordering website built using HTML, CSS, and JavaScript. Users can browse menu items, filter by categories, and add items to the cart.
+**Name:** Keyur Dobariya  
+**Company:** Saiket Systems  
+**Domain:** Front-End Development  
+**Duration:** April 2026 – May 2026  
 
 ---
 
-## Features
+# About This Submission
 
-- Multi-page layout: Home, Menu, About, Services, Contact
-- Category-based menu filtering
-- Add to Cart functionality
-- Responsive design for desktop and mobile
-- Interactive UI using JavaScript
+This repository contains all the tasks, projects, source codes, screenshots, and internship report completed during the Front-End Development Internship at Saiket Systems.
+
+The internship focused on improving practical web development skills using HTML, CSS, and JavaScript through multiple real-world tasks and mini projects.
 
 ---
 
-## Technologies Used
+# Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript (Basic)
-- MySQL (Basic – if used)
+- JavaScript
+- Responsive Web Design
+- CSS Grid & Flexbox
+- DOM Manipulation
+- Visual Studio Code
 
 ---
 
-## Installation / Usage
+# Tasks Completed
 
-1. Clone the repository:
+## Task 1 – Basic Blog Post Layout
+Created a semantic HTML blog webpage with title, author, image, list section, and conclusion.
+
+## Task 2 – Product Card Design
+Designed a responsive product card using HTML and CSS with hover effects and proper alignment.
+
+## Task 3 – Responsive Webpage Layout
+Developed a responsive webpage layout using CSS Grid, Flexbox, and media queries.
+
+## Task 4 – Quiz Application
+Built a JavaScript quiz application with score calculation, validation, and question navigation.
+
+## Task 5 – To-Do List Application
+Created a responsive To-Do List app with add, edit, delete, and complete task functionality.
+
+## Task 6 – Webpage Clone Project
+Recreated a real-world webpage layout with responsive sections and interactive features.
+
+---
+
+# Skills Gained
+
+- Responsive Web Design
+- Front-End Development
+- JavaScript Fundamentals
+- DOM Manipulation
+- UI Design
+- Problem Solving
+- Debugging
+- Project Structuring
+
+---
+
+# Folder Structure
 
 ```bash
-git clone https://github.com/KD-dev-alt/FoodiePizza-Website.git
-```
-
----
-## ScreenShots
-
-![Home Page](images/Home.png)
-![Menu Page](images/Menu.png)
-
----
-
-## Live Demo
-```bash
-https://kd-dev-alt.github.io/FoodiePizza-Website/
-```
+Project Folder/
+│
+├── Report/
+├── Task_1/
+├── Task_2/
+├── Task_3/
+├── Task_4/
+├── Task_5/
+├── Task_6/
+└── Screenshots/
